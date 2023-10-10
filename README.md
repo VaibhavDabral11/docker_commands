@@ -4,7 +4,7 @@
    
 2. Port maping in the docker ``` docker run -p 80:80 nginx ``` [maping post of linux and nginx].
    
-3. For running docker container ``` docker run -d -p 80:80 nginx.
+3. For running docker container ```docker run -d -p 80:80 nginx```.
    
 4. Checking the status of the docker container ```docker ps```.
 
