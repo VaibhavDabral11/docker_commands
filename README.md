@@ -16,7 +16,7 @@
 
 8. Delete image ```docker rm <Image_Id>```.
 
-9. Stop all the Images ``` docker system prure ```.
+9. Stop all the Images ``` docker system prune ```.
 
 10. Stop docker forcefully ```docker rm -f <Image_Id>```.
 
@@ -26,10 +26,12 @@
 
 13. To commit data inside the container using this commands , run this command from outside the container ```docker commit <Image_Id>```.
 
-15. List docker Images ``` docker images ```.
+14. List docker Images ``` docker images ```.
 
-16. Pull from docker ``` https://chat.openai.com/share/64251e61-e061-422b-8965-870642d02626 ```.
+15. Pull from docker ``` https://chat.openai.com/share/64251e61-e061-422b-8965-870642d02626 ```.
 
-17. Push to the docker hub ``` https://chat.openai.com/share/a786f56b-e614-4372-878d-103a8ebc5a2f ```.
+16. Push to the docker hub ``` https://chat.openai.com/share/a786f56b-e614-4372-878d-103a8ebc5a2f ```.
 
-18. For commands in more details ```docs.docker.com```
+![image](https://github.com/VaibhavDabral11/docker_commands/assets/116658648/b8acfcd5-debb-43d9-85bf-c95bdd74dc8c)
+
+For commands in more details ```docs.docker.com```
